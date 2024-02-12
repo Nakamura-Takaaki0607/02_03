@@ -4,6 +4,7 @@
 #include <stdio.h>
 
 int main() {
+
 	Japanese* japanese = new Japanese;
 	English* english = new English;
 	japanese->Speak();
